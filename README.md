@@ -2,4 +2,5 @@
 
 by Programmer Zaman Now
 
-# Trigger jenkins ARIGINTS
+# Trigger jenkins by poll scm
+ARI ERGINTA GINTING
